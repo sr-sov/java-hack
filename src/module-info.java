@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Yehosh
- *
- */
-module codeassess {
-}

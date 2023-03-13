@@ -1,4 +1,4 @@
-package javahack;
+package java;
 
 import java.util.*;
 import java.io.*;
