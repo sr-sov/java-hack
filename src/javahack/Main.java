@@ -1,4 +1,4 @@
-package java;
+package javahack;
 
 import java.io.*;
 import java.util.ArrayList;

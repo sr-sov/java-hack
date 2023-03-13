@@ -1,4 +1,4 @@
-package java;
+package javahack;
 
 import java.util.ArrayList;
 import java.util.Scanner;

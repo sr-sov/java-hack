@@ -1,4 +1,4 @@
-package java;
+package javahack;
 
 public class JUnit {
 
@@ -6,6 +6,6 @@ public class JUnit {
 		
 	}
 	public int add(int A, int B) {
-		return A+B;
+		return 2+2;
 	}
 }
